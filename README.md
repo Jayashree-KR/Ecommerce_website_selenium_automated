@@ -19,5 +19,7 @@ The Framework Overview:
 
 # Steps:
 After downloading and installing all the dependencies clone the repository or download the zip file.
+
 Navigate to the project directory
+
 Run the project in command prompt using command : mvn clean install
