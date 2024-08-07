@@ -1,6 +1,6 @@
 # Selenium_Ecommerce-Website
 
-This proejct provides a Selenium test automation framework for the demo e-commerce site nopCommerce.
+This project provides a Selenium test automation framework for the demo e-commerce site nopCommerce.
 The Framework Overview:
 *Programming language used : JAVA
 
