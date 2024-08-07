@@ -1,17 +1,23 @@
-# SeleniumFrameworkUsingJava
+# Selenium_Ecommerce-Website
 
-Selenium test automation framework project on a demo e-commerce website "https://demo.nopcommerce.com/" using Java, Maven, TestNG and POM.
+This proejct provides a Selenium test automation framework for the demo e-commerce site nopCommerce.
+The Framework Overview:
+*Programming language used : JAVA
 
-The project includes pages' classes that locate and identify the used elements and create methods, when needed, for better code refactoring The pages extend a main class (PageBase) that handles generic, most-used methods.
+*Continuous Integration : JENKINS
 
-Tests are written as an extension of a main class(TestBase or TestBase2) that includes the before and after class codes.
+*Testing Framework: TestNG
 
-# Tech stack:
-- Programming language: Java.
-- IDE: Eclipse.
-- Testing Framework: TestNG
-- Build automation: Maven.
-- DDT: JSON, CSV and Excel files.
-- BDD: Cucumber.
-- Cross-browser Testing: Selenium Grid
-- Continuous Integration: Jenkins.
+*Build automation: MAVEN
+
+# Dependencies Required:
+*JAVA 
+
+*APACHE MAVEN
+
+*CHROMEDRIVER
+
+# Steps:
+After downloading and installing all the dependencies clone the repository or download the zip file.
+Navigate to the project directory
+Run the project in command prompt using command : mvn clean install
